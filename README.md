@@ -5,4 +5,4 @@ The code is used to store the tags and then, index the tags that are stored by c
 
 You can ready more about this on my blog by visiting this link: https://digvijayghotane.blogspot.com/2018/05/in-todays-world-we-have-lot-of-products.html
 
-You can also view the working of this video by visiting this link: https://youtu.be/THz1pfmVX6c
+You can also view the working with this video: https://youtu.be/THz1pfmVX6c
